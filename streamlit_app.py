@@ -28,7 +28,7 @@ inject_custom_css()
 display_title("Clustered Incident Analysis")
 
 # Default CSV path
-default_csv_path = "./Data/Clustered.csv"
+default_csv_path = "Clustered.csv"
 
 # Load the dataset with error handling
 try:
